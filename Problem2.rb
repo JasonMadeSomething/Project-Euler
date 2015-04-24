@@ -1,3 +1,4 @@
+#finds sum of even fibonacci numbers less than four million
 def fib(n)
   return n==1 ? 1 : n==2 ? 2 : fib(n-1) + fib(n-2)  
 end

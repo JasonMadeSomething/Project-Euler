@@ -1,3 +1,4 @@
+#Finds Largest prime factor of 600851475143
 require 'prime'
 big_num, dest = 600851475143, 0
 roof = Math.sqrt(big_num).floor

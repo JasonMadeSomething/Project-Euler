@@ -1,3 +1,4 @@
+#finds LCM of range 1-20
 require 'prime'
 relevent_factors = []
 range = 20

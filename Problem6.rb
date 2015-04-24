@@ -1,3 +1,4 @@
+#finds difference between sum of squares and square of sum from 1 to 100
 sum = 0
 sos = 0
 (1...101).each do |i|

@@ -1,3 +1,4 @@
+#finds largest palindrome product of 3 digit numbers
 product = 0
 999.downto(100) do |i|
   999.downto(100) do |j|
