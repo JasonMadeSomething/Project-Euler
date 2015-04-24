@@ -5,4 +5,3 @@ total = 0
   end
 end
 puts total
-gets
