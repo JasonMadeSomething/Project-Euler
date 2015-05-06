@@ -10,4 +10,3 @@ roof.downto(0) do |i|
   break if dest != 0  
 end
 puts dest
-

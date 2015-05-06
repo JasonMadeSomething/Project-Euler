@@ -6,4 +6,3 @@ total = 0
   end
 end
 puts total
-puts "test edit"
