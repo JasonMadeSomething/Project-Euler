@@ -14,4 +14,4 @@ sum_of_even_fibs_to = (n) ->
         if is_even nth_fib then total += nth_fib
     total
 
-console.log sum_of_even_fibs_to(4000000)
+console.log sum_of_even_fibs_to 4000000
