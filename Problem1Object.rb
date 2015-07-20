@@ -15,7 +15,3 @@ class Problem1
         total
     end
 end
-
-sumOf3And5MultiplesTo1000 = Problem1.new(3,5,1000)
-
-puts sumOf3And5MultiplesTo1000.sumOfMultiples
