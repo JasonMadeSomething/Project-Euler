@@ -1,3 +1,4 @@
+
 function isPrime(n){
   if( n%1 || n<2 ) return false;
   if (n%2==0) return (n==2);
@@ -21,3 +22,4 @@ function largestPrimeFactor(num){
 }
 
 console.log(largestPrimeFactor(600851475143))
+
